@@ -1,0 +1,25 @@
+{
+    "name": "iuorasrazvan/composertut",
+    "description": "composertut",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Iuoras Razvan",
+            "email": "iuorasrazvan2003@yahoo.com"
+        }
+    ],
+  
+	"autoload": {
+		"psr-4": {
+			"User\\Name\\":"src/user/name"
+		
+		
+		}
+	
+	}
+	
+	
+		
+
+}
